@@ -1,0 +1,82 @@
+# Logs
+*.log
+*.log.*
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+target/
+
+# Eclipse
+.metadata/
+*.classpath
+*.project
+*.settings/
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Gradle
+.gradle/
+build/
+
+# VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test reports
+test-output/
+surefire-reports/
+testng-output/
+extent-reports/
+
+# Selenium screenshots
+screenshots/
+
+# Environment files
+.env
+.env.local
+.env.test
+.env.*.local
+
+# Java
+*.class
+
+# JAR files
+*.jar
+
+# Package files
+*.war
+*.ear
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Coverage reports
+coverage/
+
+# Output of npm/yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore all files in the 'bin' folder except the 'chromedriver.exe' if you use it
+bin/*
+!bin/chromedriver.exe

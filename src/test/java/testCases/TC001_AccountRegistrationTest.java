@@ -8,52 +8,49 @@ import testBase.BaseClass;
 
 public class TC001_AccountRegistrationTest extends BaseClass {
 
-	@Test
-	void testAccountRegistration() {
+  @Test(groups = { "Regression", "Master" })
+  void testAccountRegistration() {
+    try {
+      logger.info("*****Registration Test starting******");
 
-		try {
+      HomePage hp = new HomePage(driver);
 
-			logger.info("*****Registration Test starting******");
+      hp.clickMyAccount();
 
-			HomePage hp = new HomePage(driver);
+      logger.info("Clicked on Registration link");
 
-			hp.clickMyAccount();
+      hp.clickRegister();
 
-			logger.info("Clicked on Registration link");
+      String password = randomeAlphaNumeric();
 
-			hp.clickRegister();
+      AccountRegistrationPage registration = new AccountRegistrationPage(
+        driver
+      );
 
-			String password = randomeAlphaNumeric();
+      registration.enterFirstName(randomeString().toUpperCase());
+      registration.enterLastName(randomeString().toUpperCase());
+      registration.enterEmail(randomeString() + "test@gmail.com");
+      registration.enterTelephone("9" + randomeNumber());
+      registration.enterPassword(password);
+      registration.enterConfirmPassword(password);
+      registration.clickAgree();
+      registration.clickNewsletter();
+      registration.clickContinue();
+      String confMsg = registration.getYourAccountHasBeenCreated();
 
-			AccountRegistrationPage registration = new AccountRegistrationPage(driver);
+      logger.info("Validating registration successful message");
 
-			registration.enterFirstName(randomeString().toUpperCase());
-			registration.enterLastName(randomeString().toUpperCase());
-			registration.enterEmail(randomeString() + "test@gmail.com");
-			registration.enterTelephone("9" + randomeNumber());
-			registration.enterPassword(password);
-			registration.enterConfirmPassword(password);
-			registration.clickAgree();
-			registration.clickNewsletter();
-			registration.clickContinue();
-			String confMsg = registration.getYourAccountHasBeenCreated();
+      if (confMsg.equals("Your Account Has Been Created!")) {
+        Assert.assertTrue(true);
+      } else {
+        logger.error("Test Failed");
+        logger.debug("Debug logs...");
+        Assert.assertTrue(false);
+      }
+    } catch (Exception e) {
+      Assert.fail();
+    }
 
-			logger.info("Validating registration successful message");
-
-			if(confMsg.equals("Your Account Has Been Created!")) {
-				Assert.assertTrue(true);;
-			}
-			else {
-				logger.error("Test Failed");
-				logger.debug("Debug logs...");
-				Assert.assertTrue(false);
-			}
-		}
-
-		catch (Exception e){
-			Assert.fail();
-		}
-
-		logger.info("*****Registration Test execution completed******");
-	}
+    logger.info("*****Registration Test execution completed******");
+  }
 }

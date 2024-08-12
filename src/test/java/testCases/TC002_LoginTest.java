@@ -9,7 +9,7 @@ import testBase.BaseClass;
 
 public class TC002_LoginTest extends BaseClass {
 
-  @Test
+  @Test(groups = {"Master","Sanity"})
   public void loginTest() {
     logger.info("**** Login test started******");
 
@@ -32,7 +32,6 @@ public class TC002_LoginTest extends BaseClass {
       logger.info("Login test passed");
       map.clickLogout();
       logger.info("Logout test passed");
-      
     } catch (Exception e) {
       logger.error("Login test failed");
       Assert.fail();
