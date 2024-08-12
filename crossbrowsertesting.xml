@@ -12,6 +12,9 @@
 		</classes>
 	</test> <!-- Test -->
 
+<listeners>
+<listener class-name="utilities.ExtentReportManager"/>
+</listeners>
 
 	<test name="edgeTest">
 		<parameter name="os" value="Windows" />
