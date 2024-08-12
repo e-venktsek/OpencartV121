@@ -10,8 +10,7 @@ public class HomePage extends BasePage {
     super(driver);
   }
 
-  @FindBy(xpath = "//i[@class='fa fa-user']")
-  WebElement myAccount;
+  @FindBy(xpath="//a[@title='My Account']") WebElement myAccount;
 
   @FindBy(xpath = "//a[normalize-space()='Register']")
   WebElement register;

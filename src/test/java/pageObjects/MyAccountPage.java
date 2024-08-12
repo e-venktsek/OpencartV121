@@ -17,6 +17,9 @@ public class MyAccountPage extends BasePage {
   @FindBy(xpath = "//h2[normalize-space()='My Orders']")
   WebElement myOrders;
 
+  @FindBy(xpath = "//a[@class='list-group-item'][normalize-space()='Logout']")
+  WebElement logout;
+
   //Actions
   public void clickEditYourAccountInformation() {
     editYourAccountInformation.click();
@@ -28,5 +31,9 @@ public class MyAccountPage extends BasePage {
     } catch (Exception e) {
       return false;
     }
+  }
+
+  public void clickLogout() {
+    logout.click();
   }
 }

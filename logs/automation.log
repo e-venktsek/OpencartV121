@@ -195,3 +195,205 @@
 00:55:28.042 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - **** Login test started******
 00:55:28.043 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - Login test started
 00:55:29.701 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - Login test passed
+20:10:45.329 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+20:10:51.921 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Test starting******
+20:10:51.985 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration link
+20:10:54.329 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating registration successful message
+20:10:54.331 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Test execution completed******
+20:10:57.176 [main] INFO  testCases.TC002_LoginTest - **** Login test started******
+20:10:57.176 [main] INFO  testCases.TC002_LoginTest - Login test started
+20:10:58.836 [main] INFO  testCases.TC002_LoginTest - Login test passed
+20:10:59.495 [main] INFO  testCases.TC002_LoginTest - Logout test passed
+22:40:26.619 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+22:41:26.388 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+22:45:29.676 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+22:48:16.582 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+22:51:24.041 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+22:51:54.325 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+22:54:40.699 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+22:54:44.087 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Test starting******
+22:54:44.162 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration link
+22:54:46.367 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating registration successful message
+22:54:46.368 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Test execution completed******
+22:54:48.848 [main] INFO  testCases.TC002_LoginTest - **** Login test started******
+22:54:48.849 [main] INFO  testCases.TC002_LoginTest - Login test started
+22:54:50.486 [main] INFO  testCases.TC002_LoginTest - Login test passed
+22:54:51.109 [main] INFO  testCases.TC002_LoginTest - Logout test passed
+22:56:58.126 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+22:58:06.943 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+23:00:44.668 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+23:04:03.764 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+23:06:59.656 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+23:08:58.450 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+23:09:42.491 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+23:09:45.433 [main] INFO  testCases.TC002_LoginTest - **** Login test started******
+23:09:45.433 [main] INFO  testCases.TC002_LoginTest - Login test started
+23:09:47.150 [main] INFO  testCases.TC002_LoginTest - Login test passed
+23:09:47.748 [main] INFO  testCases.TC002_LoginTest - Logout test passed
+23:12:58.608 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+23:20:06.421 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:06.428 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+23:20:06.430 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:06.430 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:06.431 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:06.431 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:06.432 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:06.432 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:06.439 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+23:20:06.445 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+23:20:06.448 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:06.449 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:06.450 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:06.450 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:06.451 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:06.451 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:06.452 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:06.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:06.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:06.453 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:06.455 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:06.456 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:06.456 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:06.456 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:06.457 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:06.457 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:06.458 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:06.458 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:06.458 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+23:20:06.459 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+23:20:06.464 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\AppData\Local\Temp\testng-eclipse-19302420\testng-customsuite.xml
+
+23:20:06.478 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+23:20:06.534 [main] ERROR org.testng.internal.Utils - [Error] java.lang.NoClassDefFoundError: org/apache/commons/io/output/UnsynchronizedByteArrayOutputStream
+	at utilities.ExcelUtility.getRowCount(ExcelUtility.java:34)
+	at utilities.DataProviders.getData(DataProviders.java:15)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodNoCheckedException(MethodInvocationHelper.java:54)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:159)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
+	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
+	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:946)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.testng.TestRunner.privateRun(TestRunner.java:739)
+	at org.testng.TestRunner.run(TestRunner.java:614)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+Caused by: java.lang.ClassNotFoundException: org.apache.commons.io.output.UnsynchronizedByteArrayOutputStream
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	... 32 more
+
+23:20:06.636 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3f2ef586: 52 ms
+23:20:06.651 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6ffab045: 14 ms
+23:20:06.659 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@60fa3495: 8 ms
+23:20:06.668 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2552f2cb: 9 ms
+23:20:06.674 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@94f6bfb: 5 ms
+23:20:06.674 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@34645867: 0 ms
+23:20:24.884 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+23:38:31.384 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+23:48:56.989 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+23:49:00.931 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Test starting******
+23:49:00.998 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration link
+23:49:03.310 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating registration successful message
+23:49:03.312 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Test execution completed******
+23:49:05.729 [main] INFO  testCases.TC002_LoginTest - **** Login test started******
+23:49:05.729 [main] INFO  testCases.TC002_LoginTest - Login test started
+23:49:07.336 [main] INFO  testCases.TC002_LoginTest - Login test passed
+23:49:07.961 [main] INFO  testCases.TC002_LoginTest - Logout test passed
+23:49:39.123 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\master.xml
+
+23:49:41.936 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Test starting******
+23:49:42.015 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration link
+23:49:44.019 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating registration successful message
+23:49:44.020 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Test execution completed******
+23:49:46.469 [main] INFO  testCases.TC002_LoginTest - **** Login test started******
+23:49:46.469 [main] INFO  testCases.TC002_LoginTest - Login test started
+23:49:48.135 [main] INFO  testCases.TC002_LoginTest - Login test passed
+23:49:48.804 [main] INFO  testCases.TC002_LoginTest - Logout test passed
+23:50:30.014 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sekar\eclipse-workspace-1\OpencartV121\crossbrowsertesting.xml
+
+23:50:33.018 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Test starting******
+23:50:33.119 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration link
+23:50:33.693 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Test starting******
+23:50:33.786 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration link
+23:50:37.330 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Test starting******
+23:50:37.360 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating registration successful message
+23:50:37.362 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Test execution completed******
+23:50:37.586 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration link
+23:50:37.782 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating registration successful message
+23:50:37.782 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Test execution completed******
+23:50:40.143 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating registration successful message
+23:50:40.143 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *****Registration Test execution completed******
+23:50:40.287 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **** Login test started******
+23:50:40.287 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Login test started
+23:50:41.775 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **** Login test started******
+23:50:41.775 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Login test started
+23:50:41.922 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Login test passed
+23:50:42.578 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - Logout test passed
+23:50:43.578 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Login test passed
+23:50:44.218 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - Logout test passed
+23:50:46.054 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - **** Login test started******
+23:50:46.054 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - Login test started
+23:50:47.733 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - Login test passed
+23:50:48.361 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - Logout test passed
