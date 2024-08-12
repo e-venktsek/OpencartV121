@@ -30,6 +30,9 @@ public class TC002_LoginTest extends BaseClass {
       boolean targetPage = map.isMyOrdersDisplayed();
       Assert.assertTrue(targetPage);
       logger.info("Login test passed");
+      map.clickLogout();
+      logger.info("Logout test passed");
+      
     } catch (Exception e) {
       logger.error("Login test failed");
       Assert.fail();
