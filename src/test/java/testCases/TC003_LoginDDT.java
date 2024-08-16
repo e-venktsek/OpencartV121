@@ -18,7 +18,7 @@ public class TC003_LoginDDT extends BaseClass {
   @Test(
     dataProvider = "LoginData",
     dataProviderClass = DataProviders.class,
-    groups = "Datadriven"
+    groups = {"Datadriven","Master"}
   )
   public void verify_loginDDT(String email, String password, String exp) {
     logger.info("**** Login DDT Started ********");
